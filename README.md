@@ -2,6 +2,8 @@
 
 ## 基本情報
 
+|key|value|
+|---|-----|
 |Name|jetstream0520|
 |Birth|1986/08/27|
 |Family|独身|
