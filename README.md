@@ -4,7 +4,7 @@
 
 |key|value|
 |---|-----|
-|Name|廣川 淳教|
+|Name|jetstream0520|
 |Birth|1986/08/27|
 |Family|独身|
 |Location|埼玉県さいたま市|
